@@ -1,0 +1,7 @@
+{
+  "name": "KINETIC APEX Motorcycles",
+  "description": "High-performance Austrian-engineered streetfighter motorcycles, technical specs, 3D configurator, telemetry lab, and dealer test ride network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
